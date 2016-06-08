@@ -1,6 +1,6 @@
 body {
 
-	background-image: url(http://img03.deviantart.net/f527/i/2012/086/d/c/blood_wallpaper_by_menkargoldfinger-d4u56p9.jpg);
+	background-image: url("http://www.edwardreese.com/blog1/wp-content/uploads/2014/03/Abandoned-Train-Station.jpg");
     background-size: cover;
     background-position: center center;
 	font-family: monospace;
@@ -9,6 +9,48 @@ body {
 
 /*Stuff below governs the start screen*/
 
+
+
+.button1 {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height:100px;
+    width:64px;
+}
+.button2 {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height:100px;
+    width:64px;
+}
+.button3 {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height:100px;
+    width:64px;
+}
+.button4 {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height:100px;
+    width:64px;
+}
 .titleContent {
 	margin: 10% auto;
     text-align: center;
@@ -35,27 +77,14 @@ body {
     color: #abc;
   }
 
-}
 
-<<<<<<< HEAD
 
-#GameOverBody {
-	background-image: url(http://img03.deviantart.net/f527/i/2012/086/d/c/blood_wallpaper_by_menkargoldfinger-d4u56p9.jpg);
+/*Stuff below governs the Explore screen*/
+
+#exploreBody {
+	background-image: url("http://data.hdwallpapers.im/scary.jpg");
 	background-position: bottom center;
-}
-h1 {
-    margin-top: 150px;
-    font-family: verdana;
-    font-size: 150px;
-}
-p {
-    margin-top:20px;
-    font-family: verdana;
-    font-size: 100px;
+
+
 }
 
-
-
-
-=======
->>>>>>> origin/master
